@@ -55,6 +55,7 @@ TEST_REQUIREMENTS = [
     "numpy",
     "pandas",
     "polars",
+    "pyarrow",
     "pytest",
     "pytest-cov",
     "scipy",
